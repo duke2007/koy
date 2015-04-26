@@ -1,0 +1,2 @@
+# koy
+blog django
